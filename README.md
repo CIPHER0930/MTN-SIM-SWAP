@@ -4,12 +4,12 @@ This script makes a SIM swap request to the MTN API.
 
 **Usage:**
 
-./sim-swap.sh
+./sim-swap.sh or sim-swap.py
 
 
 **Example:**
 
-$ ./sim-swap.sh
+$ ./sim-swap.sh or sim-swap.py
 
 Enter your old SIM card number: +237653712744
 Enter your new SIM card number: +237653772712
